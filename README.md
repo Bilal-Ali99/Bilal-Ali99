@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bilal Ali</h1>
-<h3 align="center">AI & Machine Learning Engineer Passionate about building practical AI solutions with a focus on Large Language Models (LLMs) and chatbot development. I design user-friendly tools that simplify complex tasks through natural language interfaces. Currently expanding my skills in fine-tuning LLMs (like GPT, Llama) and AI workflow integration. Machine Learning & Data Science Proficient in transforming raw data into actionable insights using: Python libraries: Pandas, NumPy, Scikit-learn for data cleaning & preprocessing Feature engineering: Handling missing values, normalization, and encoding Predictive modeling: Building regression/classification models ML frameworks: Practical experience with TensorFlow/PyTorch I bridge data pipelines with ML workflows – from preprocessing to model deployment – ensuring robust predictions. Eager to tackle new challenges in NLP and scalable AI systems.</h3>
+<h3 align="center">AI & Machine Learning Engineer Passionate about building practical AI solutions with a focus on Large Language Models (LLMs) and chatbot development. I design user-friendly tools that simplify complex tasks through natural language interfaces. Currently expanding my skills in fine-tuning LLMs (like GPT, Llama) and AI workflow integration.</h3><br> <h3>Machine Learning & Data Science Proficient in transforming raw data into actionable insights using:</h3>
+<ul> 
+  <li>Python libraries: Pandas, NumPy, Scikit-learn for data cleaning & preprocessing</li> 
+  <li>Feature engineering: Handling missing values, normalization, and encoding</li> 
+  <li>Predictive modeling: Building regression/classification models</li> 
+  <li>ML frameworks: Practical experience with TensorFlow/PyTorch</li>
+</ul>
+<h3>I bridge data pipelines with ML workflows – from preprocessing to model deployment – ensuring robust predictions. Eager to tackle new challenges in NLP and scalable AI systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-ali99&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-ali99" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilal-ali99" alt="bilal-ali99" /></a> </p>
 
 - 🔭 I’m currently working on [Research Tool](https://github.com/Bilal-Ali99/Research_Tool)
