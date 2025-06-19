@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilal Ali</h1>
-<h3 align="center">AI & Machine Learning Engineer Passionate about building practical AI solutions with a focus on Large Language Models (LLMs) and chatbot development. I design user-friendly tools that simplify complex tasks through natural language interfaces. Currently expanding my skills in fine-tuning LLMs (like GPT, Llama) and AI workflow integration.</h3><br> <h3>Machine Learning & Data Science Proficient in transforming raw data into actionable insights using:</h3>
+<h3>AI & Machine Learning Engineer Passionate about building practical AI solutions with a focus on Large Language Models (LLMs) and chatbot development.</h3>
+<h3>I design user-friendly tools that simplify complex tasks through natural language interfaces.</h3> 
+<h3>Currently expanding my skills in fine-tuning LLMs (like GPT, Llama) and AI workflow integration.</h3>
+<br> 
+<h3>Machine Learning & Data Science Proficient in transforming raw data into actionable insights using:</h3>
 <ul> 
   <li>Python libraries: Pandas, NumPy, Scikit-learn for data cleaning & preprocessing</li> 
   <li>Feature engineering: Handling missing values, normalization, and encoding</li> 
